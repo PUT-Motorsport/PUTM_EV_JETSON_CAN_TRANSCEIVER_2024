@@ -1,6 +1,6 @@
 # Project Template
 
-PINs:
+Pinout for Xavier NX
 ![obraz](https://github.com/user-attachments/assets/f513f7e6-60c7-41fe-8954-cee7f94da080)
 
 
