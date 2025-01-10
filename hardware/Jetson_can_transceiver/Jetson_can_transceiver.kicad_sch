@@ -3097,7 +3097,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Harwin:Harwin_M20-7812045_2x20_P2.54mm_Vertical"
 			(at 83.82 99.06 0)
 			(effects
 				(font
